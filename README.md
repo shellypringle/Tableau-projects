@@ -1,8 +1,7 @@
 # Tableau-projects
 
 ## Amazing Mart 
-In this project, analysis was done on some data from the fictitional company "Amazing Mart".
-The focus was on the sales and profit by country, category, and subcategory of product.
+This report consists of a main dashboard depicting findings about Sales, Total Profit, and Orders for the fictitional company "Amazing Mart". Drill down features are enabled to see information for customers with respect to geographical region, in addition to categorical/subcategorical data. 
 
 [View the dynamic project here](https://public.tableau.com/views/order_breakdown/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
