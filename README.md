@@ -1,4 +1,4 @@
-# Tableau-projects
+# Tableau projects
 
 ## RWFD University
 This dashboard consists of statistics for newly enrolled students of RWFD University. Check out the data [here](https://sonsofhierarchies.com/real-world-fake-data/).
